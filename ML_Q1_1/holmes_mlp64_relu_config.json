@@ -1,0 +1,1 @@
+{"vocab_size": 8171, "emb_dim": 64, "context_length": 5, "hidden1": 1024, "hidden2": 512, "activation": "relu", "dropout": 0.2}
